@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proba zalogowania sie do aplikacji secretdemo przy uzyciu blednych danych</description>
+   <name>saucedemo_logowanie_bledne_dane</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>798ebc10-7781-45be-b29d-122ecff2090f</testCaseGuid>
+   <variable>
+      <defaultValue>'Epic sadface: Username and password do not match any user in this service'</defaultValue>
+      <description>Komunikat w przypadku blednego logowania</description>
+      <id>44fa87bd-5402-4fd0-83b0-803e2bccdeb0</id>
+      <masked>false</masked>
+      <name>msg_error_expected</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.saucedemo.com/index.html'</defaultValue>
+      <description>Adres strony saucedemo</description>
+      <id>7baf11c9-610f-44fe-bbf1-f81b85de1303</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

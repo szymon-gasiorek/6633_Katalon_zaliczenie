@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Proba zalogania sie do aplikacji secretdemo przy uzyciu poprawnych danych logowania</description>
+   <name>saucedemo_logowanie_poprawne_dane</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>38c49e66-8aa3-4aed-829d-59d2bc2a933a</dataFileGUID>
+   <dataSourceUrl>Logowanie_poprawne_dane.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

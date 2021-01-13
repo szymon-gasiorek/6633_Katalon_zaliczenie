@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Proba zalogania sie do aplikacji secretdemo przy uzyciu blednych danych logowania</description>
+   <name>saucedemo_logowanie_bledne_dane_1</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>d8ebd161-4729-462b-be7a-d0d59435ccd0</dataFileGUID>
+   <dataSourceUrl>Logowanie_dane.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

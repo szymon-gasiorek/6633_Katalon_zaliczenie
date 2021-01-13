@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logowanie sie na strone saucedemo i zlozenie zamowienia</description>
+   <name>saucedemo_zlozenia zamowienia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f99f6f7-606f-447c-a389-303582b0555a</testCaseGuid>
+   <variable>
+      <defaultValue>'Error: First Name is required'</defaultValue>
+      <description>Blad przy braku wprowadzonych danych</description>
+      <id>e648f81f-a9e0-40b3-a2d5-0bdf2d02fc7e</id>
+      <masked>false</masked>
+      <name>msg_error_exp</name>
+   </variable>
+   <variable>
+      <defaultValue>'Uzytkownik1'</defaultValue>
+      <description>Imie podawane przy wypelnianiu formularza</description>
+      <id>359d0044-d57e-48d1-b332-7f0499b81bec</id>
+      <masked>false</masked>
+      <name>Imie</name>
+   </variable>
+   <variable>
+      <defaultValue>'Nazwisko1'</defaultValue>
+      <description>Nazwisko podawane przy wypelnianiu formularza</description>
+      <id>0a3dbcd4-60c9-4647-841a-84874aaac4e8</id>
+      <masked>false</masked>
+      <name>Nazwisko</name>
+   </variable>
+   <variable>
+      <defaultValue>'6633'</defaultValue>
+      <description>Kod pocztowy podawany przy wypelnianiu formularza</description>
+      <id>9e84c5b5-2880-412a-b172-86b163c41077</id>
+      <masked>false</masked>
+      <name>Kod_pocztowy</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.saucedemo.com/index.html'</defaultValue>
+      <description>Adres strony saucedemo</description>
+      <id>eba1a673-3fc4-4e37-b50a-f43192372b0e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
